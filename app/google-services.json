@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "742943886461",
+    "project_id": "sameerchat-7b2bb",
+    "storage_bucket": "sameerchat-7b2bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742943886461:android:c35d8006074d3466ae3514",
+        "android_client_info": {
+          "package_name": "com.example.sameerchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742943886461-mgh0addsb7ui074orjs8358on2e2tee7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sameerchat",
+            "certificate_hash": "02e32f3d2439c69760ecac8954a0ac1675769232"
+          }
+        },
+        {
+          "client_id": "742943886461-3i64n4h85opru1t5u5qo3in9smoricbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ9LrilpHRYSPks35VV78VZ8zjrJ1rMdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742943886461-3i64n4h85opru1t5u5qo3in9smoricbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
